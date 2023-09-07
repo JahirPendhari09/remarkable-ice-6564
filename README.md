@@ -1,7 +1,6 @@
 # remarkable-ice-6564
  Netlify Link :- "https://edukin.netlify.app/"
- </br>
-API   "http://localhost:3000/"
+ <br/>
 
 Edukin Language Learning Project is an ambitious and innovative endeavor aimed at revolutionizing the way children learn new languages. Developed by a team of dedicated language enthusiasts and tech-savvy educators, our project seeks to empower young minds with invaluable linguistic skills while fostering cross-cultural understanding and global awareness.
 
@@ -22,3 +21,16 @@ Emphasis on Cultural Exchange: The Edukin Language Learning Project goes beyond 
 Safe and Secure Environment: The safety and privacy of our young learners are paramount. We have implemented stringent security measures to create a secure online environment where parents can feel confident about their children's digital experience.
 
 Join the Edukin Language Learning Project today and embark on a transformative educational journey. Together, let's equip the next generation with the linguistic skills and cultural awareness needed to thrive in an interconnected world. With Edukin, language barriers are merely stepping stones to a brighter future.
+
+# Tech Stack -:<br/>
+The project is built using the following technologies:
+<p >
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> 
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+</p>
+
+
+# How to Run <br/>
+Clone the repository:   ``` git clone https://github.com/JahirPendhari09/remarkable-ice-6564 ``` <br/>
+Open your browser and visit:   ``` http://localhost:3000 ``` <br/>
